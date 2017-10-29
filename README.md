@@ -1,3 +1,7 @@
+Python 实现人脸识别 开源
+
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494646&idx=2&sn=5d56f5b9af2949b856419e7ba8638d46&chksm=903f15eea7489cf8bd7ab2d5fa727ddd5f8496769fc42fb13223dfa3e2265ae8ba53b32fcb15&mpshare=1&scene=1&srcid=1029hXNxIFR3e7YGHB6LN5bn&pass_ticket=aM7AuGraBJxgAppA33wExEOMY4X0CogQeBczmgVj5HI%3D#rd
+
 ## SeetaFace Engine  
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
